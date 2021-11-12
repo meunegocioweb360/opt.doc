@@ -1,4 +1,9 @@
 {
+ "name": "OPT.DOC - Tour Virtual 360°",
+ "start_url": "index.htm",
+ "description": "Av. República do Líbano, 1673 - Moema, São Paulo - SP, 04501-001",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Opt. Doc - Tour Virtual 360°",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
- "description": "Av. República do Líbano, 1673 - Moema, São Paulo - SP, 04501-001"
+ "theme_color": "#FFFFFF"
 }
